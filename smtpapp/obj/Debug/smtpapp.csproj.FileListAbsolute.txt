@@ -1,0 +1,7 @@
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\bin\Debug\smtpapp.exe.config
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\bin\Debug\smtpapp.exe
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\bin\Debug\smtpapp.pdb
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\obj\Debug\smtpapp.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\obj\Debug\smtpapp.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\obj\Debug\smtpapp.exe
+C:\Users\Thinkpad\source\repos\smtpapp\smtpapp\obj\Debug\smtpapp.pdb
